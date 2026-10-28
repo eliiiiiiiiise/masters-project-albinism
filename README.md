@@ -30,7 +30,7 @@ Developed an interactive Streamlit application based on the collected dataset an
 
 The platform is available [here](https://dissertation-edx6nvbixxuceasazfc8xc.streamlit.app/)
 
-[This repository]([https://github.com/eliiiiiiiiise/dissertation](https://github.com/eliiiiiiiiise/albinism-in-africa-platform)) contains the platform code.
+[This repository](https://github.com/eliiiiiiiiise/albinism-in-africa-platform) contains the platform code.
 
 ## Technologies
 
