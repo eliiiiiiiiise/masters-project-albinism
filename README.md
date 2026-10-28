@@ -28,7 +28,9 @@ The code associated with this is available on this repository.
 
 Developed an interactive Streamlit application based on the collected dataset and initial wireframes. Evaluated the platform against the predefined functional requirements and assessed usability using the System Usability Scale (SUS).
 
-The platform is available [here] (https://dissertation-edx6nvbixxuceasazfc8xc.streamlit.app/)
+The platform is available [here](https://dissertation-edx6nvbixxuceasazfc8xc.streamlit.app/)
+
+[This repository](https://github.com/eliiiiiiiiise/dissertation) contains the platform code.
 
 ## Technologies
 
